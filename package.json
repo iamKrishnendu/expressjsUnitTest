@@ -1,0 +1,20 @@
+{
+  "name": "express_api",
+  "version": "1.0.0",
+  "description": "This is a demo project to create simple RESTFul API using Express.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Krishnendu",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "mocha": "^7.1.2"
+  }
+}
